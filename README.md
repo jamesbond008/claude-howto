@@ -23,6 +23,12 @@
 
 **[15 分钟快速上手](#15-分钟快速上手)** | **[不知道该从哪开始](#不知道该从哪开始)** | **[浏览功能目录](CATALOG.md)**
 
+## 前端页面完整截图
+
+[查看原图](assets/screenshots/claude-howto-study-full.png)
+
+![Claude How To 中文交互学习页完整截图](assets/screenshots/claude-howto-study-full.png)
+
 ---
 
 ## 目录
